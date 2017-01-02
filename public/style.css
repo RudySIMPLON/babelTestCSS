@@ -1,0 +1,61 @@
+#spanid{
+
+	text-transform: capitalize;
+
+}
+
+.general{ 
+	display: inline-flex;
+height: 20em;
+ }
+
+.EntreElement{
+
+
+}
+
+
+
+
+.RechercheElement{
+
+margin-left: 30em;
+
+
+}
+
+
+.ElementTape{
+
+
+margin-left: 45em;
+
+}
+
+input {
+
+border-radius:2em;
+font-size: 2em;
+}
+
+button{
+	border-radius:2em;
+	width:30em;
+}
+
+
+ul{
+	font-size: 2em;
+	color :red;
+	list-style-type: none;
+
+
+}
+
+body{
+
+background-color: #F0E5DE;
+
+}
+
+
